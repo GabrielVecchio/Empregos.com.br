@@ -5,3 +5,5 @@ For their target, they needed to send the same e-mail to three different bases w
 Hope everything is fine and dandy and you may find no mistakes at all
 
 it is responsive and I used mediaquery to perform its fluid design.
+
+If you download it, please say thank you. I would like to be acknowledged :)
